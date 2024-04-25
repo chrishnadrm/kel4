@@ -4,4 +4,3 @@ numpy==1.26.4
 sklearn
 matplolib===3.8.4
 pip==23.3.1
-matplot
